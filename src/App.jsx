@@ -53,7 +53,7 @@ export default function App() {
     <>
       <header className="w-full h-[72px] bg-white shadow-[0px_1px_3px_rgba(0,0,0,0.10)] flex items-center justify-center">
         <img
-          src="assets/logo.png"
+          src="/assets/logo.png"
           alt="SpaceX"
           className="w-[260px] h-[32px]"
         />
